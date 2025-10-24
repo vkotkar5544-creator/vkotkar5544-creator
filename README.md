@@ -6,10 +6,13 @@
 ###I am eager to connect with data professionals and explore opportunities where I can apply my analytical skills while continuing to grow in the data analytics space!!
 
 ##Personal contact📞📱:
+
 ###Mobile No. +917841965630
+
 ###Email: vitthalkotkar7@gmail.com
 
 ##Skills💻📑:
+
 ###1.Power BI
 
 ###2.SQL
