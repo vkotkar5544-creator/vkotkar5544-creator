@@ -11,14 +11,23 @@
 
 ##Skills💻📑:
 ###1.Power BI
+
 ###2.SQL
+
 ###3.Excel
+
 ###4.Problem solving
+
 ###5.Python
+
 ###6.Data analytics 
+
 ###7.Data visualization 
+
 ###8.Data cleaning
+
 ###9.Data mining
+
 ###10.Numpy
 
 <!--
