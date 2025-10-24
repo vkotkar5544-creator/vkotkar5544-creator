@@ -15,7 +15,7 @@ Mobile No. +917841965630
 
 Email: vitthalkotkar7@gmail.com
 
-Skills💻📑:
+Tools & Skills💻📑:
 
 1.Power BI
 
